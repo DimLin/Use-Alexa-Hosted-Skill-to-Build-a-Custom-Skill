@@ -166,7 +166,7 @@ If you already have an __Amazon Developer Account__, please skip this step.
 <img src="./images/020-Alexa-Edit_JSON-01.jpg" alt="020-Alexa-Edit_JSON-01.jpg" >
 </center>
 
-- Download the [__module__](../Tutorial-01-Use-Alexa-Hosted-Skill-to-Build-a-Custom-Skill/module/VUI_JSON.json), and upload the __VUI_JSON__ file.
+- Download the [__module__](module/VUI_JSON.json), and upload the __VUI_JSON__ file.
 
     > Don't forget to __Save Model__ and __Build Model__ again.
     
@@ -217,7 +217,7 @@ If you already have an __Amazon Developer Account__, please skip this step.
 
 - Clean up all the original __index.js__, and copypaste the [__Index.js__](lambda/index.js).
 
-- Double click the __package.json__ on left side, clean up the original content and paste the [__package.json__](../Tutorial-01-Use-Alexa-Hosted-Skill-to-Build-a-Custom-Skill/lambda/package.json) as previous step.
+- Double click the __package.json__ on left side, clean up the original content and paste the [__package.json__](lambda/package.json) as previous step.
 
 - Select the __Icon__ as following to add a new file.
 
@@ -234,7 +234,7 @@ If you already have an __Amazon Developer Account__, please skip this step.
 </center>
 
 
-- Copy the [__recipes.js__](../Tutorial-01-Use-Alexa-Hosted-Skill-to-Build-a-Custom-Skill/lambda/recipes.js), and paste in the __recipes.js__ file what you created.
+- Copy the [__recipes.js__](lambda/recipes.js), and paste in the __recipes.js__ file what you created.
 
 - Select __Save__ and then __Deploy__.
 
