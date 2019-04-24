@@ -215,7 +215,7 @@ If you already have an __Amazon Developer Account__, please skip this step.
 </center>
 
 
-- Clean up all the original __index.js__, and copypaste the [__Index.js__](../Tutorial-01-Use-Alexa-Hosted-Skill-to-Build-a-Custom-Skill/lambda/index.js).
+- Clean up all the original __index.js__, and copypaste the [__Index.js__](../Use-Alexa-Hosted-Skill-to-Build-a-Custom-Skill/lambda/index.js).
 
 - Double click the __package.json__ on left side, clean up the original content and paste the [__package.json__](../Tutorial-01-Use-Alexa-Hosted-Skill-to-Build-a-Custom-Skill/lambda/package.json) as previous step.
 
